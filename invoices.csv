@@ -1,0 +1,6 @@
+invoice_id,vendor,amount,due_date,status
+INV001,ABC Traders,25000,2026-04-10,Overdue
+INV002,Global Supplies,18000,2026-04-28,Pending
+INV003,Tech Parts Ltd,52000,2026-04-15,Overdue
+INV004,Delta Services,12000,2026-05-02,Paid
+INV005,Prime Office,34000,2026-04-30,Pending
